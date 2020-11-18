@@ -1,6 +1,6 @@
 
 body{
-  background-image: url("Asset/canvas.jpg");
+  background-image: url("canvas.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -8,7 +8,7 @@ body{
 
 
 h1{
-  background-image: url("Asset/canvas.jpg");
+  background-image: url("canvas.jpg");
   color: #060318;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
